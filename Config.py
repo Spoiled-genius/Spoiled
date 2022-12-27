@@ -1,7 +1,7 @@
 import os
 
 class Config(object):
-    API_ID = int(os.environ.get("APP_ID", "6435225"))
+    API_ID = int(os.environ.get("APP_ID", "5831631494"))
     API_HASH = os.environ.get("API_HASH", "4e984ea35f854762dcde906dce426c2d")
     BOT_TOKEN = os.environ.get("BOT_TOKEN","5831631494:AAGpDjl-hPVJW5ym18wMlkAHPvR4E3ug6j8")
     STRING_SESSION = os.environ.get("STRING_SESSION", "BQBy6lq-LolIlL6S97bom6UPNftbRWtbh_kkCFRw4WSsPXbPnewkKArU5gadbTf4sb9sMyoTHBQXw8DMBDm9Ja9lJUqskC7lWZVpDFg7Q8kCDj0gWxhHepS5BLh_tBQwgp9sQ9A5c4sUxA1KAEAzifN0SWLI1OfiGZfOGMpoa0U0JebWAi7-65C_PfWGZ2c_vum0DLnaa2fdWLAGdZojjIPVJ8vKGZ1D3DTbUdHY0tyqy6Jbk3q9SET3Gh5WxY_SZ8CPReK8oDj7542lnw4zEy_Jjpp1tNsqyACouWjoxQv3io9UfPF90NeNr1_ZuI7Kz65HCUpLJ5Rsg2iUDoyHx_q7AAAAAWHeojgA")
